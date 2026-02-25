@@ -1,0 +1,1572 @@
+
+ Meters for 8,ENCLOSEDOFFICE_MID_1 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ENCLOSEDOFFICE_MID_1 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ENCLOSEDOFFICE_MID_1 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ENCLOSEDOFFICE_MID_1 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 129,ENCLOSEDOFFICE_MID_2 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ENCLOSEDOFFICE_MID_2 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ENCLOSEDOFFICE_MID_2 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ENCLOSEDOFFICE_MID_2 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 166,ENCLOSEDOFFICE_MID_3 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ENCLOSEDOFFICE_MID_3 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ENCLOSEDOFFICE_MID_3 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ENCLOSEDOFFICE_MID_3 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 203,CONFROOM_MID_1 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:CONFROOM_MID_1 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:CONFROOM_MID_1 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:CONFROOM_MID_1 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 240,CONFROOM_MID_2 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:CONFROOM_MID_2 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:CONFROOM_MID_2 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:CONFROOM_MID_2 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 277,CORRIDOR_MID_1 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:CORRIDOR_MID_1 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:CORRIDOR_MID_1 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:CORRIDOR_MID_1 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 314,CORRIDOR_MID_2 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:CORRIDOR_MID_2 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:CORRIDOR_MID_2 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:CORRIDOR_MID_2 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 351,DINING_MID ZN MEDIUMOFFICE - DINING LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:DINING_MID ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:DINING_MID ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:DINING_MID ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 388,MECHANICAL_MID ZN MEDIUMOFFICE - ELEC/MECHROOM LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:MECHANICAL_MID ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:MECHANICAL_MID ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:MECHANICAL_MID ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 425,LOBBY_MID ZN MEDIUMOFFICE - LOBBY LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:LOBBY_MID ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:LOBBY_MID ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:LOBBY_MID ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 462,OPENOFFICE_MID_1 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:OPENOFFICE_MID_1 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:OPENOFFICE_MID_1 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:OPENOFFICE_MID_1 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 499,OPENOFFICE_MID_2 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:OPENOFFICE_MID_2 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:OPENOFFICE_MID_2 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:OPENOFFICE_MID_2 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 536,OPENOFFICE_MID_3 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:OPENOFFICE_MID_3 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:OPENOFFICE_MID_3 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:OPENOFFICE_MID_3 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 573,OPENOFFICE_MID_4 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:OPENOFFICE_MID_4 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:OPENOFFICE_MID_4 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:OPENOFFICE_MID_4 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 610,RESTROOM_MID ZN MEDIUMOFFICE - RESTROOM LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:RESTROOM_MID ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:RESTROOM_MID ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:RESTROOM_MID ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 647,STAIR_MID_1 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STAIR_MID_1 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:STAIR_MID_1 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:STAIR_MID_1 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 684,STAIR_MID_2 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:STAIR_MID_2 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:STAIR_MID_2 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:STAIR_MID_2 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 721,ACTIVESTORAGE_MID_1 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ACTIVESTORAGE_MID_1 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_1 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_1 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 758,ACTIVESTORAGE_MID_2 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ACTIVESTORAGE_MID_2 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_2 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_2 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 795,ACTIVESTORAGE_MID_3 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ACTIVESTORAGE_MID_3 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_3 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_3 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 832,ACTIVESTORAGE_MID_4 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Building [J]
+  OnMeter=Electricity:Zone:ACTIVESTORAGE_MID_4 ZN [J]
+  OnMeter=Electricity:SpaceType:GENERAL [J]
+  OnMeter=InteriorLights:Electricity [J]
+  OnMeter=InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_4 ZN [J]
+  OnMeter=InteriorLights:Electricity:SpaceType:GENERAL [J]
+  OnMeter=General:InteriorLights:Electricity [J]
+  OnMeter=General:InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_4 ZN [J]
+  OnMeter=General:InteriorLights:Electricity:SpaceType:GENERAL [J]
+
+ Meters for 890,ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ACTIVESTORAGE_MID_1 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_1 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_1 ZN [J]
+
+ Meters for 975,ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ACTIVESTORAGE_MID_1 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_1 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_1 ZN [J]
+
+ Meters for 1024,ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ACTIVESTORAGE_MID_2 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_2 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_2 ZN [J]
+
+ Meters for 1061,ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ACTIVESTORAGE_MID_2 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_2 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_2 ZN [J]
+
+ Meters for 1086,ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ACTIVESTORAGE_MID_3 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_3 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_3 ZN [J]
+
+ Meters for 1123,ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ACTIVESTORAGE_MID_3 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_3 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_3 ZN [J]
+
+ Meters for 1148,ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ACTIVESTORAGE_MID_4 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_4 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_4 ZN [J]
+
+ Meters for 1185,ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ACTIVESTORAGE_MID_4 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_4 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_4 ZN [J]
+
+ Meters for 1210,CONFROOM_MID_1 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CONFROOM_MID_1 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:CONFROOM_MID_1 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:CONFROOM_MID_1 ZN [J]
+
+ Meters for 1247,CONFROOM_MID_1 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CONFROOM_MID_1 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:CONFROOM_MID_1 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:CONFROOM_MID_1 ZN [J]
+
+ Meters for 1272,CONFROOM_MID_2 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CONFROOM_MID_2 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:CONFROOM_MID_2 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:CONFROOM_MID_2 ZN [J]
+
+ Meters for 1309,CONFROOM_MID_2 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CONFROOM_MID_2 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:CONFROOM_MID_2 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:CONFROOM_MID_2 ZN [J]
+
+ Meters for 1334,CORRIDOR_MID_1 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CORRIDOR_MID_1 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:CORRIDOR_MID_1 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:CORRIDOR_MID_1 ZN [J]
+
+ Meters for 1371,CORRIDOR_MID_1 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CORRIDOR_MID_1 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:CORRIDOR_MID_1 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:CORRIDOR_MID_1 ZN [J]
+
+ Meters for 1396,CORRIDOR_MID_2 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CORRIDOR_MID_2 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:CORRIDOR_MID_2 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:CORRIDOR_MID_2 ZN [J]
+
+ Meters for 1433,CORRIDOR_MID_2 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:CORRIDOR_MID_2 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:CORRIDOR_MID_2 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:CORRIDOR_MID_2 ZN [J]
+
+ Meters for 1458,DINING_MID ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DINING_MID ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:DINING_MID ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:DINING_MID ZN [J]
+
+ Meters for 1495,DINING_MID ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:DINING_MID ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:DINING_MID ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:DINING_MID ZN [J]
+
+ Meters for 1520,ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_1 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_1 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_1 ZN [J]
+
+ Meters for 1557,ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_1 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_1 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_1 ZN [J]
+
+ Meters for 1582,ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_2 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_2 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_2 ZN [J]
+
+ Meters for 1619,ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_2 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_2 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_2 ZN [J]
+
+ Meters for 1644,ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_3 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_3 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_3 ZN [J]
+
+ Meters for 1681,ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_3 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_3 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_3 ZN [J]
+
+ Meters for 1706,LOBBY_MID ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:LOBBY_MID ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:LOBBY_MID ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:LOBBY_MID ZN [J]
+
+ Meters for 1743,LOBBY_MID ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:LOBBY_MID ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:LOBBY_MID ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:LOBBY_MID ZN [J]
+
+ Meters for 1768,MECHANICAL_MID ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MECHANICAL_MID ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:MECHANICAL_MID ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:MECHANICAL_MID ZN [J]
+
+ Meters for 1805,MECHANICAL_MID ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:MECHANICAL_MID ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:MECHANICAL_MID ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:MECHANICAL_MID ZN [J]
+
+ Meters for 1830,OPENOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPENOFFICE_MID_1 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:OPENOFFICE_MID_1 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:OPENOFFICE_MID_1 ZN [J]
+
+ Meters for 1867,OPENOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPENOFFICE_MID_1 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_1 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_1 ZN [J]
+
+ Meters for 1892,OPENOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPENOFFICE_MID_2 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:OPENOFFICE_MID_2 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:OPENOFFICE_MID_2 ZN [J]
+
+ Meters for 1929,OPENOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPENOFFICE_MID_2 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_2 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_2 ZN [J]
+
+ Meters for 1954,OPENOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPENOFFICE_MID_3 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:OPENOFFICE_MID_3 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:OPENOFFICE_MID_3 ZN [J]
+
+ Meters for 1991,OPENOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPENOFFICE_MID_3 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_3 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_3 ZN [J]
+
+ Meters for 2016,OPENOFFICE_MID_4 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPENOFFICE_MID_4 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:OPENOFFICE_MID_4 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:OPENOFFICE_MID_4 ZN [J]
+
+ Meters for 2053,OPENOFFICE_MID_4 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:OPENOFFICE_MID_4 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_4 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_4 ZN [J]
+
+ Meters for 2078,RESTROOM_MID ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:RESTROOM_MID ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:RESTROOM_MID ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:RESTROOM_MID ZN [J]
+
+ Meters for 2115,RESTROOM_MID ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:RESTROOM_MID ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:RESTROOM_MID ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:RESTROOM_MID ZN [J]
+
+ Meters for 2140,STAIR_MID_1 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STAIR_MID_1 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STAIR_MID_1 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:STAIR_MID_1 ZN [J]
+
+ Meters for 2177,STAIR_MID_1 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STAIR_MID_1 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STAIR_MID_1 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:STAIR_MID_1 ZN [J]
+
+ Meters for 2202,STAIR_MID_2 ZN:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STAIR_MID_2 ZN [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:STAIR_MID_2 ZN [J]
+  OnMeter=General:Heating:EnergyTransfer [J]
+  OnMeter=General:Heating:EnergyTransfer:Zone:STAIR_MID_2 ZN [J]
+
+ Meters for 2239,STAIR_MID_2 ZN:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:STAIR_MID_2 ZN [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:STAIR_MID_2 ZN [J]
+  OnMeter=General:Cooling:EnergyTransfer [J]
+  OnMeter=General:Cooling:EnergyTransfer:Zone:STAIR_MID_2 ZN [J]
+
+ Meters for 2264,Whole Building:Facility Total Purchased Electricity Energy [J]
+  OnMeter=ElectricityPurchased:Facility [J]
+  OnMeter=ElectricityPurchased:Plant [J]
+  OnMeter=Cogeneration:ElectricityPurchased [J]
+  OnMeter=General:Cogeneration:ElectricityPurchased [J]
+
+ Meters for 2313,Whole Building:Facility Total Surplus Electricity Energy [J]
+  OnMeter=ElectricitySurplusSold:Facility [J]
+  OnMeter=ElectricitySurplusSold:Plant [J]
+  OnMeter=Cogeneration:ElectricitySurplusSold [J]
+  OnMeter=General:Cogeneration:ElectricitySurplusSold [J]
+
+ Meters for 2362,Whole Building:Facility Net Purchased Electricity Energy [J]
+  OnMeter=ElectricityNet:Facility [J]
+  OnMeter=ElectricityNet:Plant [J]
+  OnMeter=Cogeneration:ElectricityNet [J]
+  OnMeter=General:Cogeneration:ElectricityNet [J]
+
+ Meters for 2411,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 2436,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 2437,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_2 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_3 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_1 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_2 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_1 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_2 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  DINING_MID ZN MEDIUMOFFICE - DINING LIGHTS:Lights Electricity Energy
+  MECHANICAL_MID ZN MEDIUMOFFICE - ELEC/MECHROOM LIGHTS:Lights Electricity Energy
+  LOBBY_MID ZN MEDIUMOFFICE - LOBBY LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_1 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_2 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_3 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_4 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  RESTROOM_MID ZN MEDIUMOFFICE - RESTROOM LIGHTS:Lights Electricity Energy
+  STAIR_MID_1 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  STAIR_MID_2 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_1 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_2 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_3 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_4 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Building [J], ResourceType=Electricity, Group=Building, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_2 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_3 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_1 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_2 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_1 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_2 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  DINING_MID ZN MEDIUMOFFICE - DINING LIGHTS:Lights Electricity Energy
+  MECHANICAL_MID ZN MEDIUMOFFICE - ELEC/MECHROOM LIGHTS:Lights Electricity Energy
+  LOBBY_MID ZN MEDIUMOFFICE - LOBBY LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_1 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_2 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_3 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_4 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  RESTROOM_MID ZN MEDIUMOFFICE - RESTROOM LIGHTS:Lights Electricity Energy
+  STAIR_MID_1 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  STAIR_MID_2 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_1 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_2 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_3 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_4 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ENCLOSEDOFFICE_MID_1 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, Group=SpaceType, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_2 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_3 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_1 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_2 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_1 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_2 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  DINING_MID ZN MEDIUMOFFICE - DINING LIGHTS:Lights Electricity Energy
+  MECHANICAL_MID ZN MEDIUMOFFICE - ELEC/MECHROOM LIGHTS:Lights Electricity Energy
+  LOBBY_MID ZN MEDIUMOFFICE - LOBBY LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_1 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_2 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_3 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_4 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  RESTROOM_MID ZN MEDIUMOFFICE - RESTROOM LIGHTS:Lights Electricity Energy
+  STAIR_MID_1 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  STAIR_MID_2 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_1 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_2 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_3 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_4 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_2 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_3 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_1 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_2 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_1 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_2 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  DINING_MID ZN MEDIUMOFFICE - DINING LIGHTS:Lights Electricity Energy
+  MECHANICAL_MID ZN MEDIUMOFFICE - ELEC/MECHROOM LIGHTS:Lights Electricity Energy
+  LOBBY_MID ZN MEDIUMOFFICE - LOBBY LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_1 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_2 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_3 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_4 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  RESTROOM_MID ZN MEDIUMOFFICE - RESTROOM LIGHTS:Lights Electricity Energy
+  STAIR_MID_1 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  STAIR_MID_2 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_1 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_2 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_3 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_4 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ENCLOSEDOFFICE_MID_1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_2 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_3 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_1 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_2 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_1 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_2 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  DINING_MID ZN MEDIUMOFFICE - DINING LIGHTS:Lights Electricity Energy
+  MECHANICAL_MID ZN MEDIUMOFFICE - ELEC/MECHROOM LIGHTS:Lights Electricity Energy
+  LOBBY_MID ZN MEDIUMOFFICE - LOBBY LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_1 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_2 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_3 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_4 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  RESTROOM_MID ZN MEDIUMOFFICE - RESTROOM LIGHTS:Lights Electricity Energy
+  STAIR_MID_1 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  STAIR_MID_2 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_1 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_2 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_3 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_4 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity [J], ResourceType=Electricity, EndUse=InteriorLights, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_2 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_3 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_1 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_2 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_1 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_2 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  DINING_MID ZN MEDIUMOFFICE - DINING LIGHTS:Lights Electricity Energy
+  MECHANICAL_MID ZN MEDIUMOFFICE - ELEC/MECHROOM LIGHTS:Lights Electricity Energy
+  LOBBY_MID ZN MEDIUMOFFICE - LOBBY LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_1 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_2 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_3 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_4 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  RESTROOM_MID ZN MEDIUMOFFICE - RESTROOM LIGHTS:Lights Electricity Energy
+  STAIR_MID_1 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  STAIR_MID_2 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_1 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_2 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_3 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_4 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ENCLOSEDOFFICE_MID_1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:SpaceType:GENERAL [J], ResourceType=Electricity, EndUse=InteriorLights, Group=SpaceType, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_2 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  ENCLOSEDOFFICE_MID_3 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_1 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CONFROOM_MID_2 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_1 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  CORRIDOR_MID_2 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+  DINING_MID ZN MEDIUMOFFICE - DINING LIGHTS:Lights Electricity Energy
+  MECHANICAL_MID ZN MEDIUMOFFICE - ELEC/MECHROOM LIGHTS:Lights Electricity Energy
+  LOBBY_MID ZN MEDIUMOFFICE - LOBBY LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_1 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_2 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_3 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  OPENOFFICE_MID_4 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+  RESTROOM_MID ZN MEDIUMOFFICE - RESTROOM LIGHTS:Lights Electricity Energy
+  STAIR_MID_1 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  STAIR_MID_2 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_1 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_2 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_3 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+  ACTIVESTORAGE_MID_4 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ENCLOSEDOFFICE_MID_2 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_2 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ENCLOSEDOFFICE_MID_2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_2 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ENCLOSEDOFFICE_MID_2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_2 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ENCLOSEDOFFICE_MID_3 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_3 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ENCLOSEDOFFICE_MID_3 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_3 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ENCLOSEDOFFICE_MID_3 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_3 ZN MEDIUMOFFICE - CLOSEDOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:CONFROOM_MID_1 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  CONFROOM_MID_1 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:CONFROOM_MID_1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CONFROOM_MID_1 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:CONFROOM_MID_1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CONFROOM_MID_1 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:CONFROOM_MID_2 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  CONFROOM_MID_2 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:CONFROOM_MID_2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CONFROOM_MID_2 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:CONFROOM_MID_2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CONFROOM_MID_2 ZN MEDIUMOFFICE - CONFERENCE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:CORRIDOR_MID_1 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  CORRIDOR_MID_1 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:CORRIDOR_MID_1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CORRIDOR_MID_1 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:CORRIDOR_MID_1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CORRIDOR_MID_1 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:CORRIDOR_MID_2 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  CORRIDOR_MID_2 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:CORRIDOR_MID_2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CORRIDOR_MID_2 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:CORRIDOR_MID_2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  CORRIDOR_MID_2 ZN MEDIUMOFFICE - CORRIDOR LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:DINING_MID ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  DINING_MID ZN MEDIUMOFFICE - DINING LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:DINING_MID ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  DINING_MID ZN MEDIUMOFFICE - DINING LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:DINING_MID ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  DINING_MID ZN MEDIUMOFFICE - DINING LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:MECHANICAL_MID ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  MECHANICAL_MID ZN MEDIUMOFFICE - ELEC/MECHROOM LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:MECHANICAL_MID ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  MECHANICAL_MID ZN MEDIUMOFFICE - ELEC/MECHROOM LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:MECHANICAL_MID ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  MECHANICAL_MID ZN MEDIUMOFFICE - ELEC/MECHROOM LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:LOBBY_MID ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  LOBBY_MID ZN MEDIUMOFFICE - LOBBY LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:LOBBY_MID ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  LOBBY_MID ZN MEDIUMOFFICE - LOBBY LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:LOBBY_MID ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  LOBBY_MID ZN MEDIUMOFFICE - LOBBY LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:OPENOFFICE_MID_1 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  OPENOFFICE_MID_1 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:OPENOFFICE_MID_1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  OPENOFFICE_MID_1 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:OPENOFFICE_MID_1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  OPENOFFICE_MID_1 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:OPENOFFICE_MID_2 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  OPENOFFICE_MID_2 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:OPENOFFICE_MID_2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  OPENOFFICE_MID_2 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:OPENOFFICE_MID_2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  OPENOFFICE_MID_2 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:OPENOFFICE_MID_3 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  OPENOFFICE_MID_3 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:OPENOFFICE_MID_3 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  OPENOFFICE_MID_3 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:OPENOFFICE_MID_3 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  OPENOFFICE_MID_3 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:OPENOFFICE_MID_4 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  OPENOFFICE_MID_4 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:OPENOFFICE_MID_4 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  OPENOFFICE_MID_4 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:OPENOFFICE_MID_4 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  OPENOFFICE_MID_4 ZN MEDIUMOFFICE - OPENOFFICE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:RESTROOM_MID ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  RESTROOM_MID ZN MEDIUMOFFICE - RESTROOM LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:RESTROOM_MID ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RESTROOM_MID ZN MEDIUMOFFICE - RESTROOM LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:RESTROOM_MID ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  RESTROOM_MID ZN MEDIUMOFFICE - RESTROOM LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:STAIR_MID_1 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STAIR_MID_1 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:STAIR_MID_1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STAIR_MID_1 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:STAIR_MID_1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STAIR_MID_1 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:STAIR_MID_2 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  STAIR_MID_2 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:STAIR_MID_2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STAIR_MID_2 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:STAIR_MID_2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  STAIR_MID_2 ZN MEDIUMOFFICE - STAIR LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ACTIVESTORAGE_MID_1 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_1 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_1 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_1 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_1 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ACTIVESTORAGE_MID_2 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_2 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_2 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_2 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_2 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ACTIVESTORAGE_MID_3 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_3 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_3 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_3 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_3 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_3 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=Electricity:Zone:ACTIVESTORAGE_MID_4 ZN [J], ResourceType=Electricity, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_4 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_4 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_4 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=General:InteriorLights:Electricity:Zone:ACTIVESTORAGE_MID_4 ZN [J], ResourceType=Electricity, EndUse=InteriorLights, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_4 ZN MEDIUMOFFICE - STORAGE LIGHTS:Lights Electricity Energy
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Heating Energy
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Heating Energy
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Heating Energy
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Heating Energy
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  DINING_MID ZN:Zone Air System Sensible Heating Energy
+  DINING_MID ZN:Zone Air System Sensible Cooling Energy
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+  LOBBY_MID ZN:Zone Air System Sensible Heating Energy
+  LOBBY_MID ZN:Zone Air System Sensible Cooling Energy
+  MECHANICAL_MID ZN:Zone Air System Sensible Heating Energy
+  MECHANICAL_MID ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+  RESTROOM_MID ZN:Zone Air System Sensible Heating Energy
+  RESTROOM_MID ZN:Zone Air System Sensible Cooling Energy
+  STAIR_MID_1 ZN:Zone Air System Sensible Heating Energy
+  STAIR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  STAIR_MID_2 ZN:Zone Air System Sensible Heating Energy
+  STAIR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Heating Energy
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Heating Energy
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Heating Energy
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Heating Energy
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  DINING_MID ZN:Zone Air System Sensible Heating Energy
+  DINING_MID ZN:Zone Air System Sensible Cooling Energy
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+  LOBBY_MID ZN:Zone Air System Sensible Heating Energy
+  LOBBY_MID ZN:Zone Air System Sensible Cooling Energy
+  MECHANICAL_MID ZN:Zone Air System Sensible Heating Energy
+  MECHANICAL_MID ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+  RESTROOM_MID ZN:Zone Air System Sensible Heating Energy
+  RESTROOM_MID ZN:Zone Air System Sensible Cooling Energy
+  STAIR_MID_1 ZN:Zone Air System Sensible Heating Energy
+  STAIR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  STAIR_MID_2 ZN:Zone Air System Sensible Heating Energy
+  STAIR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ACTIVESTORAGE_MID_1 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Heating Energy
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Heating Energy
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Heating Energy
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Heating Energy
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Heating Energy
+  DINING_MID ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  LOBBY_MID ZN:Zone Air System Sensible Heating Energy
+  MECHANICAL_MID ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Heating Energy
+  RESTROOM_MID ZN:Zone Air System Sensible Heating Energy
+  STAIR_MID_1 ZN:Zone Air System Sensible Heating Energy
+  STAIR_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Heating Energy
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Heating Energy
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Heating Energy
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Heating Energy
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Heating Energy
+  DINING_MID ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  LOBBY_MID ZN:Zone Air System Sensible Heating Energy
+  MECHANICAL_MID ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Heating Energy
+  RESTROOM_MID ZN:Zone Air System Sensible Heating Energy
+  STAIR_MID_1 ZN:Zone Air System Sensible Heating Energy
+  STAIR_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  DINING_MID ZN:Zone Air System Sensible Cooling Energy
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+  LOBBY_MID ZN:Zone Air System Sensible Cooling Energy
+  MECHANICAL_MID ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+  RESTROOM_MID ZN:Zone Air System Sensible Cooling Energy
+  STAIR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  STAIR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  DINING_MID ZN:Zone Air System Sensible Cooling Energy
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+  LOBBY_MID ZN:Zone Air System Sensible Cooling Energy
+  MECHANICAL_MID ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+  RESTROOM_MID ZN:Zone Air System Sensible Cooling Energy
+  STAIR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+  STAIR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ACTIVESTORAGE_MID_2 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ACTIVESTORAGE_MID_3 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_3 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_3 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_3 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_3 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ACTIVESTORAGE_MID_4 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Heating Energy
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_4 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ACTIVESTORAGE_MID_4 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_4 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ACTIVESTORAGE_MID_4 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ACTIVESTORAGE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:CONFROOM_MID_1 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Heating Energy
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:CONFROOM_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:CONFROOM_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:CONFROOM_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:CONFROOM_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CONFROOM_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:CONFROOM_MID_2 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Heating Energy
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:CONFROOM_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:CONFROOM_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:CONFROOM_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:CONFROOM_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CONFROOM_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:CORRIDOR_MID_1 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Heating Energy
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:CORRIDOR_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:CORRIDOR_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:CORRIDOR_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:CORRIDOR_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CORRIDOR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:CORRIDOR_MID_2 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Heating Energy
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:CORRIDOR_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:CORRIDOR_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:CORRIDOR_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:CORRIDOR_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  CORRIDOR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:DINING_MID ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  DINING_MID ZN:Zone Air System Sensible Heating Energy
+  DINING_MID ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:DINING_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  DINING_MID ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:DINING_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  DINING_MID ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:DINING_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  DINING_MID ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:DINING_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  DINING_MID ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_1 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_2 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_3 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_3 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_3 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_3 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:ENCLOSEDOFFICE_MID_3 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  ENCLOSEDOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:LOBBY_MID ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  LOBBY_MID ZN:Zone Air System Sensible Heating Energy
+  LOBBY_MID ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:LOBBY_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  LOBBY_MID ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:LOBBY_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  LOBBY_MID ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:LOBBY_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  LOBBY_MID ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:LOBBY_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  LOBBY_MID ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:MECHANICAL_MID ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  MECHANICAL_MID ZN:Zone Air System Sensible Heating Energy
+  MECHANICAL_MID ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:MECHANICAL_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  MECHANICAL_MID ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:MECHANICAL_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  MECHANICAL_MID ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:MECHANICAL_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  MECHANICAL_MID ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:MECHANICAL_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  MECHANICAL_MID ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:OPENOFFICE_MID_1 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:OPENOFFICE_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:OPENOFFICE_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPENOFFICE_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:OPENOFFICE_MID_2 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:OPENOFFICE_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:OPENOFFICE_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPENOFFICE_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:OPENOFFICE_MID_3 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:OPENOFFICE_MID_3 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:OPENOFFICE_MID_3 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_3 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_3 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPENOFFICE_MID_3 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:OPENOFFICE_MID_4 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Heating Energy
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:OPENOFFICE_MID_4 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:OPENOFFICE_MID_4 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_4 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:OPENOFFICE_MID_4 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  OPENOFFICE_MID_4 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:RESTROOM_MID ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  RESTROOM_MID ZN:Zone Air System Sensible Heating Energy
+  RESTROOM_MID ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:RESTROOM_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  RESTROOM_MID ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:RESTROOM_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  RESTROOM_MID ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:RESTROOM_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  RESTROOM_MID ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:RESTROOM_MID ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  RESTROOM_MID ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:STAIR_MID_1 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STAIR_MID_1 ZN:Zone Air System Sensible Heating Energy
+  STAIR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:STAIR_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STAIR_MID_1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:STAIR_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STAIR_MID_1 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:STAIR_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STAIR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:STAIR_MID_1 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STAIR_MID_1 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:STAIR_MID_2 ZN [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  STAIR_MID_2 ZN:Zone Air System Sensible Heating Energy
+  STAIR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:STAIR_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STAIR_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=General:Heating:EnergyTransfer:Zone:STAIR_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  STAIR_MID_2 ZN:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:STAIR_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STAIR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=General:Cooling:EnergyTransfer:Zone:STAIR_MID_2 ZN [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  STAIR_MID_2 ZN:Zone Air System Sensible Cooling Energy
+
+ For Meter=ElectricityPurchased:Facility [J], ResourceType=ElectricityPurchased, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=ElectricityPurchased:Plant [J], ResourceType=ElectricityPurchased, Group=Plant, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricityPurchased [J], ResourceType=ElectricityPurchased, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Purchased Electricity Energy
+
+ For Meter=ElectricitySurplusSold:Facility [J], ResourceType=ElectricitySurplusSold, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=ElectricitySurplusSold:Plant [J], ResourceType=ElectricitySurplusSold, Group=Plant, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricitySurplusSold [J], ResourceType=ElectricitySurplusSold, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Total Surplus Electricity Energy
+
+ For Meter=ElectricityNet:Facility [J], ResourceType=ElectricityNet, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=ElectricityNet:Plant [J], ResourceType=ElectricityNet, Group=Plant, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=General:Cogeneration:ElectricityNet [J], ResourceType=ElectricityNet, EndUse=Cogeneration, contents are:
+  Whole Building:Facility Net Purchased Electricity Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass

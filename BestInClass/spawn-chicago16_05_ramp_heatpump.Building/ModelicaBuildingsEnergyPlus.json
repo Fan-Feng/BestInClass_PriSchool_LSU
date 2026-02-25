@@ -1,0 +1,80 @@
+{
+  "version": "0.1",
+  "EnergyPlus": {
+    "idf": "C:/BestInClass/Resources/idf/1964_IDF_Files/2022/ASHRAE901_OfficeMedium_STD2019_Buffalo_test.idf",
+    "weather": "C:/BestInClass/Resources/weather/USA_IL_Chicago-OHare.Intl.AP.725300_TMY3.epw",
+    "relativeSurfaceTolerance": 1.00e-06
+  },
+  "model": {
+    "zones": [
+      {
+        "name": "ActiveStorage_Top_1 ZN"
+      },
+      {
+        "name": "EnclosedOffice_Top_1 ZN"
+      },
+      {
+        "name": "EnclosedOffice_Top_2 ZN"
+      },
+      {
+        "name": "EnclosedOffice_Top_3 ZN"
+      },
+      {
+        "name": "Lobby_Top ZN"
+      },
+      {
+        "name": "Mechanical_Top ZN"
+      },
+      {
+        "name": "OpenOffice_Top_1 ZN"
+      },
+      {
+        "name": "OpenOffice_Top_2 ZN"
+      },
+      {
+        "name": "OpenOffice_Top_3 ZN"
+      },
+      {
+        "name": "OpenOffice_Top_4 ZN"
+      },
+      {
+        "name": "Restroom_Top ZN"
+      },
+      {
+        "name": "ActiveStorage_Top_2 ZN"
+      },
+      {
+        "name": "Stair_Top_1 ZN"
+      },
+      {
+        "name": "Stair_Top_2 ZN"
+      },
+      {
+        "name": "ActiveStorage_Top_3 ZN"
+      },
+      {
+        "name": "ActiveStorage_Top_4 ZN"
+      },
+      {
+        "name": "ConfRoom_Top_1 ZN"
+      },
+      {
+        "name": "ConfRoom_Top_2 ZN"
+      },
+      {
+        "name": "Corridor_Top_1 ZN"
+      },
+      {
+        "name": "Corridor_Top_2 ZN"
+      },
+      {
+        "name": "Dining_Top ZN"
+      }
+    ]
+  },
+  "fmu": {
+      "name": "C:/BestInClass/spawn-chicago16_05_ramp_heatpump.Building/EnergyPlus.fmu",
+      "version": "2.0",
+      "kind": "ME"
+  }
+}

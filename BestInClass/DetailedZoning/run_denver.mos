@@ -1,0 +1,14 @@
+﻿// Optional: set working directory where your models/results are
+cd("C:/path/to/BestInClass");
+
+// Load your package (if not already preloaded in Dymola)
+openModel("BestInClass/package.mo");
+
+// Run first simulation (daily outputs, every 6 hours)
+simulateModel(
+  "BestInClass.DetailedZoning.denver",
+  stopTime=31536000,
+  numberOfIntervals=0,
+  outputInterval=600,
+  resultFile="denver_10min"
+);

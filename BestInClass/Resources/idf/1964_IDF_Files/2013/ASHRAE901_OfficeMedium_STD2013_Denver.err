@@ -1,0 +1,28 @@
+Program Version,EnergyPlus, Version 25.1.0-68a4a7c774, YMD=2025.09.12 18:30,
+   ** Severe  ** Line: 41583 Index: 12 - Field cannot be Autosize or Autocalculate
+   ** Severe  ** Line: 41605 Index: 12 - Field cannot be Autosize or Autocalculate
+   ** Severe  ** Line: 41627 Index: 12 - Field cannot be Autosize or Autocalculate
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][high_speed_2023_rated_evaporator_fan_power_per_volume_flow_rate] - Value type "string" for input "PACU_VAV_bot_OA-PACU_VAV_bot_CoolCNode" not permitted by 'type' constraint.
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][low_speed_gross_rated_cooling_cop] - Value type "string" for input "FURNACE_PACU_VAV_CoolCCarrier48TM014_12tons_CapFT" not permitted by 'type' constraint.
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][low_speed_gross_rated_sensible_heat_ratio] - "2.994400" - Expected number less than or equal to 1.000000
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][low_speed_gross_rated_sensible_heat_ratio] - Failed to validate against child schema #0.
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][low_speed_gross_rated_sensible_heat_ratio] - "2.994400" - Failed to match against any enum values.
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][low_speed_gross_rated_sensible_heat_ratio] - Failed to validate against child schema #1.
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][low_speed_gross_rated_sensible_heat_ratio] - Failed to validate against any schemas allowed by anyOf constraint.
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][low_speed_rated_air_flow_rate] - Value type "string" for input "FURNACE_PACU_VAV_CoolCCarrier48TM014_12tons_EIRFT" not permitted by 'type' constraint.
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][low_speed_rated_air_flow_rate] - Failed to validate against child schema #0.
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][low_speed_rated_air_flow_rate] - "FURNACE_PACU_VAV_CoolCCarrier48TM014_12tons_EIRFT" - Failed to match against any enum values.
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][low_speed_rated_air_flow_rate] - Failed to validate against child schema #1.
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][low_speed_rated_air_flow_rate] - Failed to validate against any schemas allowed by anyOf constraint.
+   ** Severe  ** <root>[Coil:Cooling:DX:TwoSpeed][PACU_VAV_bot_CoolC DXCoil][unit_internal_static_air_pressure] - Value type "string" for input "PACU_VAV_bot_CoolC-PACU_VAV_bot_HeatCNode" not permitted by 'type' constraint.
+   ** Severe  ** <root>[People][ActiveStorage People][mean_radiant_temperature_calculation_type] - "ZoneAveraged" - Failed to match against any enum values.
+   ** Warning ** Version: in IDF="9.6" not the same as expected="25.1"
+   **  Fatal  ** Errors occurred on processing input file. Preceding condition(s) cause termination.
+   ...Summary of Errors that led to program termination:
+   ..... Reference severe error count=17
+   ..... Last severe error=<root>[People][ActiveStorage People][mean_radiant_temperature_calculation_type] - "ZoneAveraged" - Failed to match against any enum values.
+   ************* Warning:  Node connection errors not checked - most system input has not been read (see previous warning).
+   ************* Fatal error -- final processing.  Program exited before simulations began.  See previous error messages.
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Terminated--Fatal Error Detected. 1 Warning; 17 Severe Errors; Elapsed Time=00hr 00min  0.15sec

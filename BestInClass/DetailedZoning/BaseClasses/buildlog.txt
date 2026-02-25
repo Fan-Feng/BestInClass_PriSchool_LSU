@@ -1,0 +1,16 @@
+ 
+Compiling and linking the model (Visual C++). 
+ 
+64-bit mode activated. 
+dsmodel.c
+dsmodel.c(7811): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+dsmodel.c(7834): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+dsmodel.c(7857): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+dsmodel.c(15924): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+dsmodel.c(19962): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+dsmodel.c(23972): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+dsmodel.c(24007): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+   Creating library dymosim.lib and object dymosim.exp
+ 
+Successful generation of Dymosim. 
+ 

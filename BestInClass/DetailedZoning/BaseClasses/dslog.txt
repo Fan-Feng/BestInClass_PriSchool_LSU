@@ -1,0 +1,90 @@
+Log-file of program C:\Users\zhuor\Desktop\BestInClass-20251122T054740Z-1-001\BestInClass\DetailedZoning\BaseClasses\dymosim.exe
+(generated: Sat Nov 22 18:44:36 2025)
+
+dymosim.exe started
+... "BestInClass.DetailedZoning.TestCondensing" simulating
+... "dsin.txt" loading (dymosim input file)
+... "dsres.mat" creating (simulation result file)
+
+Integration started at T = 0 using integration method DASSL
+(DAE multi-step solver (dassl/dasslrt of Petzold modified by Dassault Systemes))
+Error: The following error was detected at time: 64902.68613893251
+  In TestCondensing.ahu.cooCoi.ele[1].vol2: Model has flow reversal,
+  but the parameter allowFlowReversal is set to false.
+  m_flow_small    = 0.0002
+  ports[1].m_flow = -0.0002
+
+  Failed condition: ahu.cooCoi.ele[1].vol2.ports[1].m_flow > -0.0002
+
+Integration terminated before reaching "StopTime" at T = 6.49e+04
+
+Final values of states and state derivatives:
+State                                     ,      State value, Derivative value
+ahu.heaCoi.port_b2.p                      ,           101325,      1.96501e-05
+ahu.cooCoi.ele[1].vol1.dynBal.U           ,          89658.3,        0.0294622
+ahu.cooCoi.ele[1].vol2.dynBal.medium.Xi[1],       0.00861939,      1.72191e-12
+ahu.cooCoi.ele[1].vol2.dynBal.U           ,          -202879,        0.0133017
+ahu.cooCoi.ele[1].mas.T                   ,           285.15,      3.91303e-06
+ahu.cooCoi.ele[2].vol1.dynBal.U           ,          89658.3,        0.0301833
+ahu.cooCoi.ele[2].vol2.dynBal.medium.Xi[1],       0.00861939,      1.80369e-12
+ahu.cooCoi.ele[2].vol2.dynBal.U           ,          -202879,        0.0148331
+ahu.cooCoi.ele[2].mas.T                   ,           285.15,      4.01468e-06
+ahu.cooCoi.ele[3].vol1.dynBal.U           ,          89658.4,        0.0308359
+ahu.cooCoi.ele[3].vol2.dynBal.medium.Xi[1],       0.00861939,     -6.54365e-11
+ahu.cooCoi.ele[3].vol2.dynBal.U           ,          -202879,        0.0300653
+ahu.cooCoi.ele[3].mas.T                   ,           285.15,      4.17086e-06
+ahu.cooCoi.ele[4].vol1.dynBal.U           ,          89658.4,        0.0305274
+ahu.cooCoi.ele[4].vol2.dynBal.medium.Xi[1],       0.00862073,      3.21441e-08
+ahu.cooCoi.ele[4].vol2.dynBal.U           ,          -202857,         0.554583
+ahu.cooCoi.ele[4].mas.T                   ,           285.15,      6.28568e-06
+ahu.fanSup.vol.dynBal.medium.Xi[1]        ,       0.00862788,      4.26377e-10
+ahu.fanSup.vol.dynBal.U                   ,          -202704,       0.00877622
+ahu.fanSup.filter.s[1]                    ,      -0.00137256,     -1.38889e-05
+ahu.fanSup.filter.s[2]                    ,      -0.00131893,     -1.38889e-05
+ahu.TSup.T                                ,          285.181,     -8.32063e-07
+ahu.TRet.T                                ,           289.23,     -9.47224e-06
+ahu.TMix.T                                ,          289.208,       -0.0009164
+ahu.eco.filter.s[1]                       ,        -0.902423,     -2.77778e-05
+ahu.eco.filter.s[2]                       ,        -0.901994,     -2.77778e-05
+ahu.boiler1.vol.dynBal.U                  ,           125716,                0
+ahu.boiler2.vol.dynBal.U                  ,           125716,                0
+ahu.pumHotWater.vol.dynBal.U              ,      3.17374e+08,                0
+ahu.pumHotWater.filter.s[1]               ,              0.2,                0
+ahu.pumHotWater.filter.s[2]               ,              0.2,                0
+ahu.splHotWater.vol.dynBal.U              ,       1.0626e+06,                0
+ahu.mixHotWater.vol.dynBal.U              ,       1.0626e+06,                0
+ahu.valBypass.filter.s[1]                 ,                0,                0
+ahu.valBypass.filter.s[2]                 ,     2.22638e-201,    -1.44137e-202
+ahu.expTan.m                              ,          99.5586,                0
+ahu.expTan.H                              ,      8.33106e+06,                0
+ahu.TRetHotWater.T                        ,           293.15,                0
+ahu.TSupHotWater.T                        ,           293.15,                0
+ahu.conBoiler1.I.y                        ,         0.752201,     -3.75336e-06
+ahu.conBoiler1.D.x                        ,          24.8402,      0.000411282
+ahu.conBoiler2.I.y                        ,         0.752201,     -3.75336e-06
+ahu.conBoiler2.D.x                        ,          24.8402,      0.000411282
+ahu.conValve.I.y                          ,         0.751809,     -3.93796e-06
+
+   CPU-time for integration                : 0.066 seconds
+   CPU-time for one grid interval          : 0.304 milliseconds
+   CPU-time for initialization             : 0.026 seconds
+   Number of result points                 : 234
+   Number of grid points                   : 218
+   Number of accepted steps                : 1124
+   Number of f-evaluations (dynamics)      : 2419
+   Number of crossing function evaluations : 1382
+   Number of Jacobian-evaluations          : 334
+   Number of model time events             : 7
+   Number of input time events             : 0
+   Number of state events                  : 5
+   Number of step events                   : 0
+   Minimum integration stepsize            : 1.13e-05
+   Maximum integration stepsize            : 863
+   Maximum integration order               : 5
+Calling terminal section
+... "dsfinal.txt" creating (final states)
+
+... Error message from dymosim.exe
+
+ERROR: The simulation of BestInClass.DetailedZoning.TestCondensing FAILED
+
